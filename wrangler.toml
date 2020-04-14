@@ -1,0 +1,6 @@
+name = "cloudflare_manthan_fullstack"
+type = "javascript"
+account_id = "26624663cd91025fac86b29bd49b6fec"
+workers_dev = true
+route = ""
+zone_id = ""
