@@ -23,6 +23,9 @@ To begin, install the [Wrangler](https://github.com/cloudflare/wrangler) command
 
 ### 2. Generate a new project using `wrangler generate` command
 
+
+
+
 Using the `generate` command (covered in the Quick Start), generate a new project with a name of your choice:
 
 ```sh
@@ -85,3 +88,6 @@ If a user visits the site and receives one of the two URLs, persist which URL is
 ### 3. Publish to a domain
 
 If you have a registered domain/zone with Cloudflare, try deploying your project by customizing the `zone_id` and `route` in your `wrangler.toml`. Make sure to check out the [Quick Start](https://developers.cloudflare.com/workers/quickstart) in the Workers docs for details on how to do this! **Note:** domains cost money, so if you don't have one, please don't feel obligated to buy one for this exercise. This is an extra credit task and you won't be penalized for skipping this one, we promise!
+
+
+R
